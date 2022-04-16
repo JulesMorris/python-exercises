@@ -13,5 +13,5 @@ from functions_exercises import calculate_tip2 #only works in computer terminal 
 calculate_tip2(.25, 200)
 print(calculate_tip2(.25, 200)) # $50
 
-# 3) 
+
 
